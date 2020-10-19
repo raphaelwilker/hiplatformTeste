@@ -1,0 +1,19 @@
+{
+  "name": "hiplatformteste",
+  "version": "1.0.0",
+  "description": "Teste aplicado para a Hi Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelwilker/hiplatformTeste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelwilker/hiplatformTeste/issues"
+  },
+  "homepage": "https://github.com/raphaelwilker/hiplatformTeste#readme"
+}
